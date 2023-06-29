@@ -1,0 +1,8 @@
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\bin\Debug\RemotingExample.Server.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\bin\Debug\RemotingExample.Server.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\bin\Debug\RemotingExample.Server.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\obj\Debug\RemotingExample.Server.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\obj\Debug\RemotingExample.Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\obj\Debug\RemotingExample.Server.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\obj\Debug\RemotingExample.Server.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Server\obj\Debug\RemotingExample.Server.pdb

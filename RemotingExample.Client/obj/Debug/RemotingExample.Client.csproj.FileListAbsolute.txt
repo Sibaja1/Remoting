@@ -1,0 +1,12 @@
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\obj\Debug\RemotingExample.Client.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\obj\Debug\RemotingExample.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\obj\Debug\RemotingExample.Client.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\bin\Debug\RemotingExample.Client.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\bin\Debug\RemotingExample.Client.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\bin\Debug\RemotingExample.Client.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\bin\Debug\RemotingExample.Server.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\bin\Debug\RemotingExample.Server.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\bin\Debug\RemotingExample.Server.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\obj\Debug\RemotingExample.Client.csproj.CopyComplete
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\obj\Debug\RemotingExample.Client.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\RemotingExample.Client\obj\Debug\RemotingExample.Client.pdb
